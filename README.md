@@ -1,12 +1,12 @@
-#Status
+# Status
 
 Work in progress
 
-#Intent
+# Intent
 
 A working docker-in-docker example automated with docker-compose, deployed to k8s with kompose
 
-#FIXME
+# FIXME
 
 ## To automate:
 
